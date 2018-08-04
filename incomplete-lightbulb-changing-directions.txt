@@ -1,0 +1,39 @@
+How to change a lightbulb:
+
+First, you'll need to determine whether the lightbulb needs to be changed.
+If you suspect that the lightbulb might need to be changed, try flipping all of the lightswitches in the room, in order to see if any of them turn the lightbulb on.
+If the lightbulb never comes on, you'll need to remove it from its light fixture.
+Can you reach the lightbulb? If you can reach it, grasp it in your hand.
+If you are unable to reach the lightbulb, try to determine why. It could be that the lightbulb is too high, or it could be that the lightbulb is obstructed by something.
+If the lightbulb is too high, you'll need to stand on something in order to reach it. If the floor beneath the lightbulb is clear, try placing a chair on the floor beneath the lightbulb. Make sure that the chair legs are all on the floor. Then step onto the chair. Can you reach the lightbulb now? If so, you should grasp the lightbulb in one hand. If not, you'll probably need to stand on a taller object than the chair. Do you have a ladder? If you have a ladder and the floor beneath the lightbulb is clear, place the ladder beneath the lightbulb. 
+Does the ladder stand up by itself? Many ladders can stand up by themselves by unfolding them and standing them on four legs. Be careful when standing on a ladder. If your ladder can be unfolded into an A-shaped configuration, then you should do that and place all of the ladder legs firmly on the floor. Does the ladder seem stable? Carefully step onto the ladder. If it supports your weight, climb the ladder until you are high enough to reach the lightbulb. If you are able to reach the lightbulb, grasp it with your hand.
+What if your ladder doesn't stand up by itself? You might need to lean it against a wall. Is there a wall close to the lightbulb? If there is a wall no more than about three feet away from the lightbulb, you can probably lean the ladder against the wall and try to climb it. Be careful. If you are able to reach the lightbulb, grasp it with your hand.
+What if there is no wall near the lightbulb? In this case, you won't be able to use a leaning ladder to reach the lightbulb. You'll need to find some alternative object to stand on. Do you have a table? If you have a table that's higher than a chair, you could try placing that beneath the lightbulb. 
+First check to see whether there is enough floor space beneath the light bulb to hold the table. If there is, place the table beneath the lightbulb. If the table is steady, step up onto the table. If it is difficult to step from the floor to the table, you could try placing a chair next to the table, then stepping from the floor to the chair, and then from the chair to the table. When you are standing on the table, try to reach the lightbulb. If you can reach it, grasp the lightbulb with your hand. 
+What if the floor beneath the lightbulb is obstructed? In this case there are two possibilities. If you are able to stand on the objects beneath the lightbulb, you could try standing on those objects and then trying to reach the lightbulb. If you cannot stand on the objects beneath the lightbulb, you might need to move the objects, then follow the instructions above for reaching the lightbulb when the floor beneath it is unobstructed. If you can't stand on the objects, and you also can't move the objects, you may need to seek professional assistance. 
+
+Okay, now what if the reason you can't reach the lightbulb is not because it's too high, but because it's obstructed by other objects? In this case, the first thing to do is try to move the other objects out of the way. If you can move the objects, try to reach the lightbulb. If you can reach it, grasp it with you hand.
+
+If you can't move the objects that are obstructing the lightbulb, you may need to seek professional assistance.
+
+At this point, I believe you should have either grasped the lightbulb with your hand, or sought professional assistance. It's also possible that I have left out some possible scenarios--I'll have to go back and revise if that's the case. If you sought professional assistance, then there is nothing more for me to tell you. If you have grasped the lightbulb with your hand, then continue following these instructions.
+
+With the light bulb grasped firmly in your hand, you will attempt to turn the lightbulb itself, relative to the fixture that holds it. The relative turning of the lightbulb needs to be in the clockwise direction when viewed looking at the bulb of the lightbulb, with the stem on the other side. Turning the lightbulb will soon allow it to come free of the fixture.
+
+With the lightbulb free, we should test it to see whether it's any good or not. We're going to need to find a lightbulb that definitely works. Flip some switches until you see a light that turns on and off. Etc. This is getting pretty long, so I'll come back to it if I feel like I need to...
+
+Materials: Lightswitches, lightbulb, lightfixture, table, chair, ladder, any objects beneath the light bulb, any objects obstructing the light bulb...
+
+Actions
+
+Logic: So much... I'm tired of this game and I'm about to move on...
+
+Axe chopping exercise:
+
+Materials: Tree. Ax.
+
+1. Grasp Ax firmly by handle.
+2. Point the edge of the ax-head at the tree trunk.
+3. Swing the ax rapidly through at least 180 degrees of arc so that the edge of the ax-head forcefully collides with the tree trunk.
+4. If you did it right, the edge of the ax-head should have become wedged into the side of the tree trunk. Apply pulling force to the ax until the ax-head comes loose.
+5. Repeat steps 3 and 4 until the tree falls.
